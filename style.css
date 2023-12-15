@@ -1,0 +1,8 @@
+/* .media-heding{
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+} */
+.right{
+    float:right;
+}

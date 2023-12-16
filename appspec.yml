@@ -2,6 +2,11 @@ version: 0.0
 os: linux
 files:
     - source: /index.html
-      destination: /var/www/html/
+      destination: /swgoh/html/
+    - source: /style.css
+      destinamtion: /swgoh/style/
+# hooks:
+    # - location: /index.js
+#       destination: /var/www/html/
 # hooks:
     # - location: /index.js

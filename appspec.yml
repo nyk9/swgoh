@@ -7,3 +7,6 @@ files:
       destinamtion: /swgoh/style/
 # hooks:
     # - location: /index.js
+#       destination: /var/www/html/
+# hooks:
+    # - location: /index.js

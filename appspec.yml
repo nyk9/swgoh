@@ -3,5 +3,5 @@ os: linux
 files:
     - source: /index.html
       destination: /var/www/html/
-hooks:
-    - location: /index.js
+# hooks:
+    # - location: /index.js

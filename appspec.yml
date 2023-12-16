@@ -8,3 +8,6 @@ files:
 file_exists_behavior: OVERWRITE
 # hooks:
     # - location: /index.js
+#       destination: /var/www/html/
+# hooks:
+    # - location: /index.js

@@ -1,9 +1,10 @@
 version: 0.0
 os: linux
 files:
-    - source: /index.html
-      destination: /swgoh/html/
-    - source: /style.css
-      destinamtion: /swgoh/style/
+    - source: /
+      destination: /swgoh/app/
+    # - source: /style.css
+    #   destinamtion: /swgoh/style/
+file_exists_behavior: OVERWRITE
 # hooks:
     # - location: /index.js

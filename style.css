@@ -6,3 +6,24 @@
 .right{
     float:right;
 }
+ul{
+    list-style: none;
+}
+li{
+    background: #313131;
+    color: #ffffff;
+    border-top: solid 2px #1919ff;
+    border-bottom: solid 2px #1919ff;
+    border-left: solid 1px #1919ff;
+    border-right: solid 1px #1919ff;
+}
+a,.character{
+    padding: 0;
+}
+.character-image{
+    float:left;
+    margin: 5px;
+}
+.character-detail{
+    margin: 5px;
+}

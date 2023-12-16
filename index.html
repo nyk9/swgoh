@@ -10,11 +10,12 @@
         <ul id="dropdown">
 
         </ul>
+        <div>
+            <input type="text"/>
+        </div>
         <div class="character-list character-search">
             <ul class="characters ">
-                <div class="">
-                    ※キャラのステータスはR9の値(データクロン、モッドなし)のときの値です
-                </div>
+                <div id="komejirusi"></div>
                 <!-- キャラテンプレート
                 <li class="character" name="ケノービ将軍">
                     <a class="character light-side">
@@ -38,8 +39,8 @@
                         
                     </a>
                 </li> -->
-                <li class="character" name="ケノービ将軍">
-                    <a class="character light-side">
+                <li class="character" name="ケノービ将軍" id="general-kenobi">
+                    <a class="character light-side" @click="click()">
                         <div class="character-image character">
                             <img src="./assets/assets/charui/tex.charui_obiwangeneral.png">
                         </div>
@@ -54,7 +55,7 @@
                                 パワフルなジェダイのタンク。フォアサイトを得て、弱体の無効化によって強化を発生させ、強化を得ている味方をアシストに呼ぶことができる。
                             </p>
                             <p>
-                                パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                                パワー：<strong>35101</strong> , HP：<strong>72,828</strong> , スピード：<strong>147</strong>
                             </p>
                         </div>
                         
@@ -148,7 +149,7 @@
                             <p>
                                 最も危険な敵を相手にできる強力な賞金稼ぎ
                             </p>
-                            <p>
+                            <p >
                                 パワー:<strong>33,016</strong> , HP:<strong>64,799</strong> , スピード:<strong>149</strong>
                             </p>
                         </div>
@@ -159,6 +160,7 @@
             </ul>
         </div>
     </div>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./script/index.js"></script>
 </body>
-
 </html>

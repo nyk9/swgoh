@@ -39,9 +39,9 @@
                     </a>
                 </li> -->
                 <li class="character" name="ケノービ将軍" id="general-kenobi">
-                    <router-link to="/GeneralKenobi" class="character light-side general" @click="click()">
+                    <router-link to="/GeneralKenobi" class="character light-side general" ">
                         <div class="character-image character">
-                            <img src="./assets/assets/charui/tex.charui_obiwangeneral.png">
+                            <!-- <img src="./assets/assets/charui/tex.charui_obiwangeneral.png"> -->
                         </div>
                         <div class="character-detail character">
                             <div class="media-heding">
@@ -63,7 +63,7 @@
                 <li class="character" name="ジェダイ・ナイト・カル・ケスティス">
                     <a class="character light-side">
                         <div class="character-image character">
-                            <img src="./swgoh-vue-project/assets/assets/charui/tex.charui_obiwangeneral.png">
+                            <!-- <img src="./swgoh-vue-project/assets/assets/charui/tex.charui_obiwangeneral.png"> -->
                         </div>
                         <div class="character-detail character">
                             <div class="media-heding">
@@ -86,7 +86,7 @@
                 <li class="character" name="ジェダイ・ナイト・ルーク・スカイウォーカー">
                     <a class="character light-side">
                         <div class="character-image character">
-                            <img src="./swgoh-vue-project/assets/assets/charui/tex.charui_luke_jediknight.png">
+                            <!-- <img src="./swgoh-vue-project/assets/assets/charui/tex.charui_luke_jediknight.png"> -->
                         </div>
                         <div class="character-detail character">
                             <div class="media-heding">
@@ -109,7 +109,7 @@
                 <li class="character" name="ジェダイ・マスター・ケノービ">
                     <a class="character light-side">
                         <div class="character-image character">
-                            <img src="./swgoh-vue-project/assets/assets/charui/tex.charui_globiwan.png">
+                            <!-- <img src="./swgoh-vue-project/assets/assets/charui/tex.charui_globiwan.png"> -->
                         </div>
                         <div class="character-detail character">
                             <div class="media-heding">
@@ -134,7 +134,7 @@
                 <li class="character" name="フェネック・シャンド">
                     <a class="character light-side">
                         <div class="character-image character">
-                            <img src="./swgoh-vue-project/assets/assets/charui/tex.charui_fennec.png">
+                            <!-- <img src="./swgoh-vue-project/assets/assets/charui/tex.charui_fennec.png"> -->
                         </div>
                         <div class="character-detail character">
                             <div class="media-heding">

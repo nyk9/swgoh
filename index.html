@@ -15,7 +15,7 @@
         </div>
         <div class="character-list character-search" id="character-list">
             <ul class="characters ">
-                <div id="komejirusi"></div>
+                <div id="komejirusi">{{kome}}</div>
                 <!-- キャラテンプレート
                 <li class="character" name="ケノービ将軍">
                     <a class="character light-side">
@@ -159,9 +159,13 @@
             </ul>
             <componet  v-bind:is=""/>
         </div>
+        <div id="Hello-There">
+
+        </div>
     </div>
     <script src="https://unpkg.com/vue@3"></script>
     <script src="https://unpkg.com/vue-router@4"></script>
     <script src="./script/index.js"></script>
+    <script src="./script/router.js"></script>
 </body>
 </html>

@@ -1,11 +1,10 @@
-import { createRouter, createWebHistory } from 'vue-router'
-import GeneralKenobi from '../views/GeneralKenobi.vue'
+// import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
     {
         path: '/',
         name: 'GeneralKenobi',
-        componet: GeneralKenobi
+        componet: ()=> import('../views/GeneralKenobi.vue')
     },
     // {
     //     paht: '/',

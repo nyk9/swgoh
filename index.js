@@ -1,3 +1,4 @@
+
 // vueのインスタンスを作成する
 Vue.createApp({
     data() {
@@ -6,10 +7,11 @@ Vue.createApp({
         }
     },
 }).mount("#komejirusi");
+import router from "./script/router.js";
 Vue.createApp({
     methods: {
         click(){
             console.log('gk is clicked');
         }
     },
-}).mount("#general-kenobi");
+}).use(router).mount("#general-kenobi");

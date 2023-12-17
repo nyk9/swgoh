@@ -1,0 +1,7 @@
+post_build:
+  commands:
+
+artifacts:
+  files:
+    - appspec.yml
+    - index.html

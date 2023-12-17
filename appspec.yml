@@ -1,13 +1,8 @@
 version: 0.0
 os: linux
 files:
-    - source: /
-        destination: /var/www/html/
+    - source: ./
+        destination: /html
     # - source: /style.css
     #   destinamtion: /swgoh/style/
 file_exists_behavior: OVERWRITE
-# hooks:
-    # - location: /index.js
-#       destination: /var/www/html/
-# hooks:
-    # - location: /index.js

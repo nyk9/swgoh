@@ -39,7 +39,7 @@
                     </a>
                 </li> -->
                 <li class="character" name="ケノービ将軍" id="general-kenobi">
-                    <router-link to="/GeneralKenobi" class="character light-side general" ">
+                    <router-link to="/GeneralKenobi" class="character light-side general">
                         <div class="character-image character">
                             <!-- <img src="./assets/assets/charui/tex.charui_obiwangeneral.png"> -->
                         </div>

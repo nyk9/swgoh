@@ -13,7 +13,7 @@
         <div>
             <input type="text"/>
         </div>
-        <div class="character-list character-search">
+        <div class="character-list character-search" id="character-list">
             <ul class="characters ">
                 <div id="komejirusi"></div>
                 <!-- キャラテンプレート
@@ -40,7 +40,7 @@
                     </a>
                 </li> -->
                 <li class="character" name="ケノービ将軍" id="general-kenobi">
-                    <a class="character light-side" @click="click()">
+                    <router-link to="/GeneralKenobi" class="character light-side" @click="click()">
                         <div class="character-image character">
                             <img src="./assets/assets/charui/tex.charui_obiwangeneral.png">
                         </div>
@@ -57,9 +57,8 @@
                             <p>
                                 パワー：<strong>35101</strong> , HP：<strong>72,828</strong> , スピード：<strong>147</strong>
                             </p>
-                        </div>
-                        
-                    </a>
+                            </div>
+                    </router-link>
                 </li>
 
                 <li class="character" name="ジェダイ・ナイト・カル・ケスティス">
@@ -158,9 +157,11 @@
                 </li>
 
             </ul>
+            <componet  v-bind:is=""/>
         </div>
     </div>
-    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://unpkg.com/vue-router@4"></script>
     <script src="./script/index.js"></script>
 </body>
 </html>

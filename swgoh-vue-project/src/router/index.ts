@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import GeneralKenobi from '../views/GeneralKenobi.vue'
+import GeneralKenobi from '../views/GeneralKenobi'
 const router = createRouter({
     history: createWebHistory(process.env.BASE_URL),
     routes:[

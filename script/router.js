@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from './vue-router.cjs.js'
+import { createRouter, createWebHistory } from 'https://unpkg.com/vue-router@4.2.5/dist/vue-router.cjs'
 
 const routes = [
     {

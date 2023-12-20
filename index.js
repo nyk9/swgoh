@@ -1,17 +1,11 @@
+// import { createApp } from 'vue';
+// createApp({}).component('a').mount("#general-kenobi");
 
-// vueのインスタンスを作成する
-Vue.createApp({
-    data() {
-        return {
-            kome: "※キャラのステータスはR9の値(データクロン、モッドなし)のときの値です"
-        }
-    },
-}).mount("#komejirusi");
-import router from "./script/router.js";
-Vue.createApp({
-    methods: {
-        click(){
-            console.log('gk is clicked');
-        }
-    },
-}).use(router).mount("#general-kenobi");
+// createApp{{
+//     methods: {
+//         click(){
+//             console.log('jkck is clicked');
+//             this.$router.push('/JediKnightCalKestis')
+//         }
+//     }
+// }}.mount("#jedi-knight-cal-kestis");

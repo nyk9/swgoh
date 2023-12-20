@@ -1,5 +1,5 @@
-import { createPinia } from 'pinia'
-import { createApp } from 'vue'
+import { createPinia } from 'pinia/dist/pinia.cjs.js'
+import { createApp } from 'vue/dist/vue.esm-browser.js'
 import './assets/main.css'
 
 import App from './App.vue'

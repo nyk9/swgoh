@@ -1,8 +1,8 @@
-import { createPinia } from 'pinia/dist/pinia.cjs.js'
-import { createApp } from 'vue/dist/vue.esm-browser.js'
+import { createPinia } from 'pinia'
+import { createApp } from 'vue'
 import './assets/main.css'
 
 import App from './App.vue'
 import router from './router/router'
 
-createApp(App).use(createPinia()).use(router).mount('#App')
+createApp(App).use(router).use(createPinia).mount('#App')

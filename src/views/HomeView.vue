@@ -107,13 +107,128 @@
               </div>
               <div class="character-detail character">
                 <div class="media-heding">
-                  <small class="right">
+                  <small class="dark">
                     ダークサイド・アタッカー・ドロイド・分離主義者
                   </small>
                   <h5 class="character-name-ls">B1バトルドロイド</h5>
                 </div>
                 <p>
                   数の力で敵を圧倒する壊れやすい分離主義者アタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="B2SuperBattleDroid" id="B2SuperBattleDorid">
+            <router-link to="/Character/B2SpuerBattleDroid" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_b2.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="dark">
+                    ダークサイド・タンク・ドロイド・分離主義者
+                  </small>
+                  <h5 class="character-name-ls">B2スーパー・バトル・ドロイド</h5>
+                </div>
+                <p>
+                  攻撃を回避する者や、味方を攻撃する者を容赦なく苦しめる、ドロイドのタンク
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="BB-8" id="BB-8">
+            <router-link to="/Character/BB-8" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_bb8.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・ドロイド・レジスタンス
+                  </small>
+                  <h5 class="character-name-ls">BB-8</h5>
+                </div>
+                <p>
+                  持続力のあるレジスタンスのドロイド。機密情報を伝達して味方を強化する。
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="BT-1" id="BT-1">
+            <router-link to="/Character/BT-1" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_bt1.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="dark">
+                    ダークサイド・アタッカー・ドロイド・ならず者
+                  </small>
+                  <h5 class="character-name-ls">BT-1</h5>
+                </div>
+                <p>
+                  ブラストメクのプロトタイプ。自らが開発された場所であるターキン・イニシアチブの研究所を破壊したことで知られている。
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="C-3PO" id="C-3PO">
+            <router-link to="/Character/C-3PO" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_c3p0.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・ドロイド・銀河共和国・反乱軍・レジスタンス
+                  </small>
+                  <h5 class="character-name-ls">C-3PO</h5>
+                </div>
+                <p>
+                  混乱効果で敵を惑わし、複数の勢力が混じっていても味方を通訳効果によって強化できる高回避力のサポートユニット。
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="C-3PO&chewie" id="C-3POchewie">
+            <router-link to="/Character/C-3PO%" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/ch">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・ドロイド・旧共和国
+                  </small>
+                  <h5 class="character-name-ls">50R-T</h5>
+                </div>
+                <p>
+                  確率を素早く計算し、逆境に逆らう手段を判断できる、きわめて知能の高いドロイド。
                 </p>
                 <!-- <p>
                   パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>

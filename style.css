@@ -5,6 +5,10 @@
 } */
 .right{
     float:right;
+    color: #ffffff;
+}
+.left{
+    float:left;
 }
 ul{
     list-style: none;

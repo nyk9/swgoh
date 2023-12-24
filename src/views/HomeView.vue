@@ -41,9 +41,9 @@
                   <small class="right">
                     ダークサイド・サポート・ドロイド・ならず者
                   </small>
-                  <h5 class="character-name-ls">0-0-0</h5>
+                  <h5 class="character-name-ds">0-0-0</h5>
                 </div>
-                <p>
+                <p class="left">
                   儀礼、習慣、通訳、拷問に特化したプロトコル・ドロイド。
                 </p>
                 <!-- <p>
@@ -66,7 +66,7 @@
                   </small>
                   <h5 class="character-name-ls">50R-T</h5>
                 </div>
-                <p>
+                <p class="left">
                   確率を素早く計算し、逆境に逆らう手段を判断できる、きわめて知能の高いドロイド。
                 </p>
                 <!-- <p>
@@ -80,7 +80,7 @@
           <li class="character" name="ARCトルーパー" id="ARCTrooper">
             <router-link to="/Character/ARCTrooper" class="character light-side">
               <div class="character-image character">
-                <img src="../../assets/assets/charui/tex.charui_clone_arc.png">
+                <img src="../../assets/assets/charui/tex.charui_trooperclone_arc.png">
               </div>
               <div class="character-detail character">
                 <div class="media-heding">
@@ -89,7 +89,7 @@
                   </small>
                   <h5 class="character-name-ls">ARC トルーパー</h5>
                 </div>
-                <p>
+                <p class="left">
                   戦場でブラスタータレットを操る強力なクローンアタッカー
                 </p>
                 <!-- <p>
@@ -107,12 +107,12 @@
               </div>
               <div class="character-detail character">
                 <div class="media-heding">
-                  <small class="dark">
+                  <small class="right">
                     ダークサイド・アタッカー・ドロイド・分離主義者
                   </small>
                   <h5 class="character-name-ls">B1バトルドロイド</h5>
                 </div>
-                <p>
+                <p class="left">
                   数の力で敵を圧倒する壊れやすい分離主義者アタッカー
                 </p>
                 <!-- <p>
@@ -130,7 +130,7 @@
               </div>
               <div class="character-detail character">
                 <div class="media-heding">
-                  <small class="dark">
+                  <small class="right">
                     ダークサイド・タンク・ドロイド・分離主義者
                   </small>
                   <h5 class="character-name-ls">B2スーパー・バトル・ドロイド</h5>
@@ -158,7 +158,7 @@
                   </small>
                   <h5 class="character-name-ls">BB-8</h5>
                 </div>
-                <p>
+                <p class="left">
                   持続力のあるレジスタンスのドロイド。機密情報を伝達して味方を強化する。
                 </p>
                 <!-- <p>
@@ -176,12 +176,12 @@
               </div>
               <div class="character-detail character">
                 <div class="media-heding">
-                  <small class="dark">
+                  <small class="right">
                     ダークサイド・アタッカー・ドロイド・ならず者
                   </small>
-                  <h5 class="character-name-ls">BT-1</h5>
+                  <h5 class="character-name-ds">BT-1</h5>
                 </div>
-                <p>
+                <p class="left">
                   ブラストメクのプロトタイプ。自らが開発された場所であるターキン・イニシアチブの研究所を破壊したことで知られている。
                 </p>
                 <!-- <p>
@@ -204,7 +204,7 @@
                   </small>
                   <h5 class="character-name-ls">C-3PO</h5>
                 </div>
-                <p>
+                <p class="left">
                   混乱効果で敵を惑わし、複数の勢力が混じっていても味方を通訳効果によって強化できる高回避力のサポートユニット。
                 </p>
                 <!-- <p>
@@ -218,17 +218,408 @@
           <li class="character" name="C-3PO&chewie" id="C-3POchewie">
             <router-link to="/Character/C-3PO%" class="character light-side">
               <div class="character-image character">
-                <img src="../../assets/assets/charui/ch">
+                <img src="../../assets/assets/charui/tex.charui_chewbacca_c3po.png">
               </div>
               <div class="character-detail character">
                 <div class="media-heding">
                   <small class="right">
                     ライトサイド・サポート・リーダー・ドロイド・旧共和国
                   </small>
-                  <h5 class="character-name-ls">50R-T</h5>
+                  <h5 class="character-name-ls">C-3PO&チューイ</h5>
                 </div>
-                <p>
-                  確率を素早く計算し、逆境に逆らう手段を判断できる、きわめて知能の高いドロイド。
+                <p style="float:center">
+                  反乱軍アタッカーのペアで、敵を暗闇状態にして注意をそらし、マルチエンカウンター遭遇で敵全体に大ダメージを与えることができる。
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="Cody" id="Cody">
+            <router-link to="/Character/CC-2444Cody" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_trooperclone_cody.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・クローン・トルーパー・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">CC-2224 "コーディ"</h5>
+                </div>
+                <p class="left">
+                  敵をスタン状態にし、大量のアシストを呼ぶクローンアタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="CT-21-0408Echo" id="CT-21-0408Echo">
+            <router-link to="/Character/CT-21-0408Echo" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_trooperclone_echo.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・第501軍団・クローン・トルーパー・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">CT-21-0408 "エコー"</h5>
+                </div>
+                <p class="left">
+                  味方を自動的にアシストし、敵全体の強化効果を解除できるクローン・トルーパーサポート
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="CT-5555Fives" id="Fives">
+            <router-link to="/Character/CT-5555Fives" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_trooperclone_fives.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・リーダー・第501軍団・クローン・トルーパー・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">CT-5555 "ファイブス"</h5>
+                </div>
+                <p class="left">
+                  高い防御力、敵スピードの低下、チーム全体へのステータスボーナスを与えるタンク。
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="CT-7567Rex" id="rex">
+            <router-link to="/Character/CT-7567Rex" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_trooperclone_rex.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・第501軍団・クローン・トルーパー・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">CT-7567 "レックス"</h5>
+                </div>
+                <p class="left">
+                  味方第501軍団とクローン・トルーパーを徹底的にサポートし守り抜くクローンリーダー
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="HK-47" id="HK-47">
+            <router-link to="/Character/HK-47" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_hk47.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・ドロイド・シス帝国
+                  </small>
+                  <h5 class="character-name-ds">HK-47</h5>
+                </div>
+                <p class="left">
+                  ダース・レヴァンとの効力なシナジー効果を持つ攻撃的なアタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="IG-100MagnaGuard" id="MagunaGuard">
+            <router-link to="/Character/IG-100MagunaGuard" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_magnaguard.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・ドロイド・分離主義者
+                  </small>
+                  <h5 class="character-name-ds">IG-100マグナガード</h5>
+                </div>
+                <p class="left">
+                  挑発を行って戦闘不能になる前に追加ターンを得る強力なドロイドタンク
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="IG-11" id="IG-11">
+            <router-link to="/Character/IG-11" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ig11_nurse.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・ヒーラー・ドロイド・ならず者
+                  </small>
+                  <h5 class="character-name-ls">IG-11</h5>
+                </div>
+                <p class="left">
+                  ならず者とドロイドに対して強力なシナジー効果を発揮する万能ヒーラー
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="IG-12Grogu" id="IG-12Grogu">
+            <router-link to="/Character/IG-12&Grogu" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ig12.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・ヒーラー・マンダロリアン
+                  </small>
+                  <h5 class="character-name-ls">IG-12 & グローグー</h5>
+                </div>
+                <p class="left">
+                  味方を回復して敵を妨害する、改造されて安全になったアサシン・ドロイド
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="IG-86" id="IG-86">
+            <router-link to="/Character/IG-86SentinelDroid" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ig86.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ドロイド
+                  </small>
+                  <h5 class="character-name-ds">IG-86歩哨ドロイド</h5>
+                </div>
+                <p class="left">
+                  ドロイドによる強力なアシストを得て、圧倒的なクリティカル能力を発揮するドロイドのアタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="IG-88" id="IG-88">
+            <router-link to="/Character/IG-88" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ig88.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・賞金稼ぎ・ドロイド・ならず者
+                  </small>
+                  <h5 class="character-name-ds">IG-88</h5>
+                </div>
+                <p class="left">
+                  弱体能力を持ち、弱体を受けている敵に対してボーナスダメージが発生するドロイドのアタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="K-2SO" id="K-2SO">
+            <router-link to="/Character/K-SO" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_k2so.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・ドロイド・反乱軍・反乱軍ファイター・ローグ・ワン
+                  </small>
+                  <h5 class="character-name-ls">K-2SO</h5>
+                </div>
+                <p class="left">
+                  挑発とカウンター攻撃を行う反乱軍タンク
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="L3-37" id="L3-37">
+            <router-link to="/Character/L3-37" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_l337.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・ならず者・ドロイド・スマグラー
+                  </small>
+                  <h5 class="character-name-ls">L3-37</h5>
+                </div>
+                <p class="left">
+                  味方の弱体を解除し、様々な方法で自分のステータスを永続的に強化していくドロイドタンク
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="R2-D2" id="R2-D2">
+            <router-link to="/Character/R2-D2" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_astromech_r2d2.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・ドロイド・銀河共和国・反乱軍・レジスタンス
+                  </small>
+                  <h5 class="character-name-ls">R2-D2</h5>
+                </div>
+                <p class="left">
+                  多彩なサポートドロイド。敵を炎上させて味方にステルス効果を発生させる
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="T3-M4" id="T3-M4">
+            <router-link to="/Character/T3-M4" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_t3m4.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・ドロイド・旧共和国
+                  </small>
+                  <h5 class="character-name-ls">T3-M4</h5>
+                </div>
+                <p class="left">
+                  味方ドロイドへのステータス強化効果や敵への弱体効果でサポートを行う攻撃的なドロイド
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="TIEファイター・パイロット" id="TIEFighterPilot">
+            <router-link to="/Character/TIEFighterPilot" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_tiepilot.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・帝国軍
+                  </small>
+                  <h5 class="character-name-ds">TIEファイター・パイロット</h5>
+                </div>
+                <p class="left">
+                  強化無効やフォアサイトを発生させられる帝国軍アタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="TheArmorer" id="TheArmorer">
+            <router-link to="/Character/TheArmorer" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_armorer.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・マンダロリアン
+                  </small>
+                  <h5 class="character-name-ls">アーマラー</h5>
+                </div>
+                <p class="left">
+                  ベスカーを集めてチームを強化して戦う、マンダロリアンの指導者かつサポートユニット
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="IdenVersio" id="IdenVersio">
+            <router-link to="/Character/IdenVersio" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_idenversioempire.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・帝国軍・帝国軍トルーパー
+                  </small>
+                  <h5 class="character-name-ds">アイデン・ヴェルシオ</h5>
+                </div>
+                <p class="left">
+                  チームをサポートしながら敵を巧みに倒す、粘り強い帝国軍アタッカー
                 </p>
                 <!-- <p>
                   パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
@@ -250,8 +641,212 @@
                   </small>
                   <h5 class="character-name-ls">アイマ＝ガン・ダイ</h5>
                 </div>
-                <p>
+                <p class="left">
                   味方の防御力を強化し、ジェダイのカウンター率を上昇させる支援型タンク
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="AaylaSecura" id="AaylaSecura">
+            <router-link to="/Character/AaylaSecura" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_aaylasecura.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・銀河共和国・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">アイラ・セキュラ</h5>
+                </div>
+                <p class="left">
+                  高い回避力、HP、自己回復力によって優れた生存能力を備えた、多才なアタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="URoRRuR'R'R" id="URoRRuR'R'R">
+            <router-link to="/Character/URoRRuR'R'R" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_urorrurrr.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・タスケン
+                  </small>
+                  <h5 class="character-name-ds">ア゛ウァア゛ゥア゛ウウ</h5>
+                </div>
+                <p class="left">
+                  頻繁にスタン攻撃を行い、タスケンのスピードを上昇させて奇襲を可能にするタスケンのサポート
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="Ugnaught" id="Ugnaught">
+            <router-link to="/Character/Ugnaught" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ugnaught.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート
+                  </small>
+                  <h5 class="character-name-ls">アグノート</h5>
+                </div>
+                <p class="left">
+                  範囲攻撃を行い、ドロイドに高い回避力を発揮する対ドロイドのサポート
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="GialAckbar" id="AdmiralAckbar">
+            <router-link to="/Character/AdmiarlAckbar" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ackbaradmiral.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・反乱軍・艦隊司令官
+                  </small>
+                  <h5 class="character-name-ls">アクバー提督</h5>
+                </div>
+                <p class="left">
+                  弱体を解除し、味方に追加ターンを与えられる反乱軍のサポート
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="AsajjVentress" id="AsajjVentress">
+            <router-link to="/Character/AsajjVentress" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ventress.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・ナイトシスター・分離主義者・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ds">アサージ・ヴェントレス</h5>
+                </div>
+                <p class="left">
+                  回避能力を持つナイトシスターコントローラー。ユニットが戦闘不能になるたびに攻撃力を強化できる。
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="AhsokaTano" id="AhsokaTano">
+            <router-link to="/Character/AhsokaTano" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ahsoka.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・第501軍団・銀河共和国・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">アソーカ・タノ</h5>
+                </div>
+                <p class="left">
+                  回復や解除をしながら継続的にアシストを行う多彩なアタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
+                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="アソーカ・タノ(コマンダー)">
+            <router-link to=" /Character/CommanderAhsokaTano" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_commanderahsokatano.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・銀河共和国・ならず者・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ls">アソーカ・タノ(コマンダー)</h5>
+                </div>
+                <p class="left">
+                  ジャーカイとシエン・フォームをマスターしている伝説のアタッカーで、敵1体に高い威力のダメージを与える。
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="アソーカ・タノ(フルクラム)">
+            <router-link to=" /Character/AhsokaTanoFulcrum" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ahsokaadult.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・反乱軍・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ls">アソーカ・タノ(フルクラム)</h5>
+                </div>
+                <p class="left">
+                  耐久力に優れた反乱軍アタッカー。弱体を退け、強化を消費してダメージを増加させる。
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="アミリン・ホルド">
+            <router-link to=" /Character/AmilynHoldo" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_holdo.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・レジスタンス・艦隊司令官
+                  </small>
+                  <h5 class="character-name-ls">アミリン・ホルド</h5>
+                </div>
+                <p class="left">
+                  レジスタンスの熟練タンク。強力なサポート能力および敵への弱体攻撃を駆使する。
                 </p>
                 <!-- <p>
                   パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
@@ -272,7 +867,7 @@
                   </small>
                   <h5 class="character-name-ls">イース・コス</h5>
                 </div>
-                <p>
+                <p class="left">
                   スタン攻撃を行い、ドロイドに絶大な力を発揮するジェダイのサポート
                 </p>
                 <!-- <p>
@@ -282,31 +877,32 @@
             </router-link>
           </li>
 
-          <li class="character" name="アソーカ・タノ(コマンダー)">
-            <router-link to=" /Character/CommanderAhsokaTano" class="character light-side">
+          <li class="character" name="カイロレン最高指導者">
+            <router-link to="/Character/SupremeLeaderKyloRen" class="character dark-side">
               <div class="character-image character">
-                <img src="../../assets/assets/charui/tex.charui_commanderahsokatano.png">
+                <img src="../../assets/assets/charui/tex.charui_kyloren_tros.png">
               </div>
               <div class="character-detail character">
                 <div class="media-heding">
                   <small class="right">
-                    ライトサイド・アタッカー・銀河共和国・ならず者・非同盟のフォースの使い手
+                    <span class="GL">銀河の伝説</span>・ダークサイド・アタッカー・リーダー・ファーストオーダー・非同盟のフォースの使い手
                   </small>
-                  <h5 class="character-name-ls">アソーカ・タノ(コマンダー)</h5>
+                  <h5 class="character-name-ds">カイロレン最高指導者</h5>
                 </div>
-                <p>
-                  ジャーカイとシエン・フォームをマスターしている伝説のアタッカーで、敵1体に高い威力のダメージを与える。
+                <p class="left">
+                  残忍な攻撃で敵を圧倒する、ファーストオーダーの破壊的な指揮官。
                 </p>
                 <!-- <p>
                   パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
                 </p> -->
               </div>
+
             </router-link>
           </li>
 
           <li class="character" name="ケノービ将軍" id="general-kenobi">
             <router-link to="/Character/GeneralKenobi" class="character light-side">
-              <div class="character-image character">
+              <div class="character-image character ">
                 <img src="../../assets/assets/charui/tex.charui_obiwangeneral.png">
               </div>
               <div class="character-detail character">
@@ -326,29 +922,6 @@
             </router-link>
           </li>
 
-          <li class="character" name="カイロレン最高指導者">
-            <router-link to="/Character/SupremeLeaderKyloRen" class="character dark-side">
-              <div class="character-image character">
-                <img src="../../assets/assets/charui/tex.charui_kyloren_tros.png">
-              </div>
-              <div class="character-detail character">
-                <div class="media-heding">
-                  <small class="right">
-                    <span class="GL">銀河の伝説</span>ダークサイド・アタッカー・リーダー・ファーストオーダー・非同盟のフォースの使い手
-                  </small>
-                  <h5 class="character-name-ds">カイロレン最高指導者</h5>
-                </div>
-                <p>
-                  残忍な攻撃で敵を圧倒する、ファーストオーダーの破壊的な指揮官。
-                </p>
-                <!-- <p>
-                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
-                </p> -->
-              </div>
-
-            </router-link>
-          </li>
-
           <li class="character" name="ジェダイ・ナイト・カル・ケスティス" id="JediKnightCalKestis">
             <router-link to="/Character/JediKnightCalKestis" class="character light-side">
               <div class="character-image character">
@@ -361,7 +934,7 @@
                   </small>
                   <h5 class="character-name-ls">ジェダイ・ナイト・カル・ケスティス</h5>
                 </div>
-                <p>
+                <p class="left">
                   ジェダイ・ナイト・カル・ケスティスは様々なライトセーバーの技を駆使し、攻守のスタンスを自在に変えながら敵を倒す。
                 </p>
                 <!-- <p>
@@ -384,7 +957,7 @@
                   </small>
                   <h5 class="character-name-ls">ジェダイ・ナイト・ルーク・スカイウォーカー</h5>
                 </div>
-                <p>
+                <p class="left">
                   フォースの意志によって味方ジェダイと共にさらなる勝利の高みに登っていく、たくましい伝説のジェダイの英雄
                 </p>
                 <!-- <p>
@@ -409,7 +982,7 @@
                     ジェダイ・マスター・ケノービ
                   </h5>
                 </div>
-                <p>
+                <p class="left">
                   言わずと知れたジェダイ・マスター。様々なスキルでダメージを与え、サポートを行う。
                 </p>
                 <!-- <p>
@@ -432,7 +1005,7 @@
                   </small>
                   <h5 class="character-name-ls">スカイウォーカー将軍</h5>
                 </div>
-                <p>
+                <p class="left">
                   仲間を死守する凶暴なジェダイ。
                 </p>
                 <!-- <p>
@@ -454,7 +1027,7 @@
                   </small>
                   <h5 class="character-name-ls">バリス・オフィー</h5>
                 </div>
-                <p>
+                <p class="left">
                   チームのHPバランスを調整し、味方の状態異常を取り除けるジェダイのヒーラー
                 </p>
                 <!-- <p>
@@ -477,7 +1050,7 @@
                   <h5 class="character-name-ds">フェネック・シャンド
                   </h5>
                 </div>
-                <p>
+                <p class="left">
                   最も危険な敵を相手にできる強力な賞金稼ぎ
                 </p>
                 <!-- <p>

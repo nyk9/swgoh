@@ -47,5 +47,6 @@
   border: 1px solid #34ff19;
   margin: 5px;
   padding: 5px;
+  min-height: 150px;
 }
 </style>

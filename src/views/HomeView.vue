@@ -877,6 +877,358 @@
             </router-link>
           </li>
 
+          <li class="character" name="イウォーク・エルダー">
+            <router-link to=" /Character/Ewok-Elder" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ewok_chief.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・ヒーラー・イウォーク
+                  </small>
+                  <h5 class="character-name-ls">イウォーク・エルダー</h5>
+                </div>
+                <p class="left">
+                  復活能力に特化したイウォークのヒーラー
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="イウォーク・スカウト">
+            <router-link to=" /Character/Ewok-Scout" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ewokscout.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・イウォーク
+                  </small>
+                  <h5 class="character-name-ls">イウォーク・スカウト</h5>
+                </div>
+                <p class="left">
+                  味方イウォークがいると回避力が上昇する、強力な単体攻撃型アタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="インペリアル・スーパー・コマンドー">
+            <router-link to=" /Character/Imperial-Super-Commando" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_imperial_super_commando.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・帝国軍・マンダロリアン
+                  </small>
+                  <h5 class="character-name-ds">インペリアル・スーパー・コマンドー</h5>
+                </div>
+                <p class="left">
+                  カウンターを駆使する帝国軍アタッカー。敵の強化を解除して強化無効を発生させる
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ヴィアーズ将軍">
+            <router-link to=" /Character/General-Veers" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_veers.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・帝国軍・帝国軍トルーパー
+                  </small>
+                  <h5 class="character-name-ds">ヴィアーズ将軍</h5>
+                </div>
+                <p class="left">
+                  敵を倒すことで強くなる積極的な帝国軍のサポート
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ウィケット">
+            <router-link to=" /Character/Wicket" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ewok_wicket.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・イウォーク
+                  </small>
+                  <h5 class="character-name-ls">ウィケット</h5>
+                </div>
+                <p class="left">
+                  神経質なイウォークのアタッカー。クリティカルヒットとステルスシナジーを駆使する。
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ヴィサス・マー">
+            <router-link to=" /Character/Visas-Marr" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_visas.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・ヒーラー・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ls">ヴィサス・マー</h5>
+                </div>
+                <p class="left">
+                  対シスの強力なシナジー効果を持つ攻撃的ヒーラー
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ウェッジ・アンティリーズ">
+            <router-link to=" /Character/Wedge-Antilles" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_eethkoth.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・反乱軍・反乱軍ファイター
+                  </small>
+                  <h5 class="character-name-ls">ウェッジ・アンティリーズ</h5>
+                </div>
+                <p class="left">
+                  強力かつ攻撃的な出だしが可能な反乱軍のアタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="エイス・ブラザー">
+            <router-link to=" /Character/Eight-Brother" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_eighthbrother.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・帝国軍・尋問官・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ds">エイス・ブラザー</h5>
+                </div>
+                <p class="left">
+                  陰密を得意とする尋問官の一員。様々な技と武器で敵を圧倒する。
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="エコー">
+            <router-link to=" /Character/Echo" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_bb_echo.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・バッド・バッチ・クローン・トルーパー・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">エコー</h5>
+                </div>
+                <p class="left">
+                  バトルで味方をサポートする忠実なクローン・トルーパー
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="エズラ・ブリッジャー">
+            <router-link to=" /Character/EzraBridger" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_ezra_s3.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・ジェダイ・フェニックス・反乱軍
+                  </small>
+                  <h5 class="character-name-ls">エズラ・ブリッジャー</h5>
+                </div>
+                <p class="left">
+                  多才なフェニックスのアタッカー。味方のタイプに応じて様々な効果を発動できる。
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="エンフィス・ネスト">
+            <router-link to=" /Character/Enfys-Nest" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_enfys.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・ならず者・スマグラー
+                  </small>
+                  <h5 class="character-name-ls">エンフィス・ネスト</h5>
+                </div>
+                <p class="left">
+                  パワフルなアタッカー。攻撃を受けるごとにプロテクションを得て、強化解除やターンメーター操作によって敵の守りを崩す
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="エンボ">
+            <router-link to=" /Character/Embo" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_embo.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・賞金稼ぎ・ハット・カルテル・ならず者
+                  </small>
+                  <h5 class="character-name-ds">エンボ</h5>
+                </div>
+                <p class="left">
+                  強力な賞金稼ぎアタッカー。プロテクションを消費して与えるダメージを増加させる
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="オーラ・シング">
+            <router-link to=" /Character/Aurra-Sing" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_aurrasing.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・賞金稼ぎ・ならず者
+                  </small>
+                  <h5 class="character-name-ds">オーラ・シング</h5>
+                </div>
+                <p class="left">
+                  ステルス状態でダメージを増加させる強力な賞金稼ぎ
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="オールド・ダカ">
+            <router-link to=" /Character/Old-Daka" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_eethkoth.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・ヒーラー・リーダー・ナイトシスター
+                  </small>
+                  <h5 class="character-name-ls">オールド・ダカ</h5>
+                </div>
+                <p class="left">
+                  防衛的なナイトシスターヒーラー。スタンと復活を駆使する。
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="オビ＝ワン・ケノービ(ベン爺)">
+            <router-link to=" /Character/Obi-Wan-Kenobi-old-Ben" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_obiwanep4.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・リーダー・ジェダイ・反乱軍
+                  </small>
+                  <h5 class="character-name-ls">オビ＝ワン・ケノービ(ベン爺)</h5>
+                </div>
+                <p class="left">
+                  複数対象への弱体で敵の攻撃力を削ぐ、耐久力の高いジェダイのタンク
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="オメガ">
+            <router-link to=" /Character/Omega" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_omega.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・バッド・バッチ・クローン・トルーパー
+                  </small>
+                  <h5 class="character-name-ls">オメガ</h5>
+                </div>
+                <p class="left">
+                  強化効果や弱体化効果を巧みに操り、味方バッド・バッチと共に敵に立ち向かう、クレバーで共感力の高いアタッカー
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
           <li class="character" name="カイロレン最高指導者">
             <router-link to="/Character/SupremeLeaderKyloRen" class="character dark-side">
               <div class="character-image character">

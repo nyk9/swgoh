@@ -943,6 +943,28 @@
             </router-link>
           </li>
 
+          <li class="character" name="ヴァンドア・チューバッカ">
+            <router-link to=" /Character/Vandor-Chewbacca" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_chewbacca_vandor.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・ならず者・スマグラー・ウーキー
+                  </small>
+                  <h5 class="character-name-ls">ヴァンドア・チューバッカ</h5>
+                </div>
+                <p class="left">
+                  攻撃された味方のプロテクションを回復させる、攻撃的なならず者のタンク
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
           <li class="character" name="ヴィアーズ将軍">
             <router-link to=" /Character/General-Veers" class="character light-side">
               <div class="character-image character">
@@ -1210,7 +1232,7 @@
           <li class="character" name="オメガ">
             <router-link to=" /Character/Omega" class="character light-side">
               <div class="character-image character">
-                <img src="../../assets/assets/charui/tex.charui_omega.png">
+                <img src="../../assets/assets/charui/tex.charui_badbatchomega.png">
               </div>
               <div class="character-detail character">
                 <div class="media-heding">
@@ -1225,6 +1247,123 @@
                 <!-- <p>
                   パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
                 </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ガー・サクソン">
+            <router-link to=" /Character/Gar-Saxon" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_gar_saxon.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・リーダー・帝国軍・マンダロリアン
+                  </small>
+                  <h5 class="character-name-ds">ガー・サクソン</h5>
+                </div>
+                <p class="left">
+                  味方帝国軍にカウンター率を付与し、カウンター攻撃時にはアシストを行うリーダー
+                </p>
+                <!-- <p>
+                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
+                </p> -->
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="カース・オナシ">
+            <router-link to=" /Character/Carth-Onasi" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_eethkoth.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・旧共和国
+                  </small>
+                  <h5 class="character-name-ls">カース・オナシ</h5>
+                </div>
+                <p class="left">
+                  敵の波を次々に倒す旧共和国兵士
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="カーラ・デューン">
+            <router-link to=" /Character/Cara-Dune" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_caradune.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・反乱軍・反乱軍ファイター・ならず者
+                  </small>
+                  <h5 class="character-name-ls">カーラ・デューン</h5>
+                </div>
+                <p class="left">
+                  リーダーがならず者もしくは反乱軍のタンクの場合、さらなる力を発揮する
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="カイル・カターン">
+            <router-link to=" /Character/Kyle-Katarn" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_kylekatarn.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・ジェダイ・反乱軍・反乱軍ファイター
+                  </small>
+                  <h5 class="character-name-ls">カイル・カターン</h5>
+                </div>
+                <p class="left">
+                  反乱軍を率いるフォース感応者でありジェダイ・ナイト
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="カイロ・レン">
+            <router-link to=" /Character/Kylo-Ren" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_kyloren.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ファースト・オーダー・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ds">カイロ・レン</h5>
+                </div>
+                <p class="left">
+                  ダメージを受けた時に特殊スキルを再使用できる、ファースト・オーダーの多才なアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="カイロ・レン(マスクなし)">
+            <router-link to=" /Character/Kylo-Ren-Unmasked" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_kylo_unmasked.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・リーダー・ファースト・オーダー・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ds">カイロ・レン(マスクなし)</h5>
+                </div>
+                <p class="left">
+                  スタンを駆使する屈強なファースト・オーダータンク
+                </p>
               </div>
             </router-link>
           </li>
@@ -1249,6 +1388,82 @@
                 </p> -->
               </div>
 
+            </router-link>
+          </li>
+
+          <li class="character" name="ガーモリアン・ガード">
+            <router-link to=" /Character/Gamorrean-Guard" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_gamorreanguard.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・ハット・カルテル・ならず者
+                  </small>
+                  <h5 class="character-name-ds">ガ―モリアン・ガード</h5>
+                </div>
+                <p class="left">
+                  反乱軍を率いるフォース感応者でありジェダイ・ナイト
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name='ガラゼブ・ "ゼブ" ・オレリオス'>
+            <router-link to=" /Character/Garazeb-Zeb-Orrelios" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_zeb_s3.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・反乱軍・フェニックス
+                  </small>
+                  <h5 class="character-name-ls">ガラゼブ・ "ゼブ" ・オレリオス</h5>
+                </div>
+                <p class="left">
+                  多才なフェニックス・タンク。弱体の有無で内容が変化する様々な効果を敵、味方に付与できる
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="カル・ケスティス">
+            <router-link to=" /Character/Cal-Kestis" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_calkestis.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ls">カル・ケスティス</h5>
+                </div>
+                <p class="left">
+                  ユニークスキルで味方をサポートして戦いの流れを操る、約束されたフォースの使い手
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="カレラン・ベク">
+            <router-link to=" /Character/Kalleran-Beq" class="character light-side">
+              <div class="character-image character left">
+                <img src="../../assets/assets/charui/tex.charui_kelleranbeq.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・銀河共和国・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">カレラン・ベク</h5>
+                </div>
+                <p class="left">
+                  ライトセーバーの才能から「セーバー・ハンド」の異名を持つカレラン・ベクは、そのフォースの知識を活かして子供たちを修行し、オーダー66ではグローグーを救出した
+                </p>
+              </div>
             </router-link>
           </li>
 
@@ -1391,7 +1606,7 @@
 
           <li class="character" name="フェネック・シャンド">
             <router-link to="/Character/FennecShand" class="character light-side">
-              <div class="character-image character">
+              <div class="character-image character left" >
                 <img src="../../assets/assets/charui/tex.charui_fennec.png">
               </div>
               <div class="character-detail character">
@@ -1425,7 +1640,10 @@
 main {
   display: flex;
 }
-
+img{
+  min-width: 100px;
+  min-height: 100px;
+}
 #sub {
   display: none;
 }

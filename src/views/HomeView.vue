@@ -1467,6 +1467,425 @@
             </router-link>
           </li>
 
+          <li class="character" name="カンデラス・オルド">
+            <router-link to=" /Character/Canderous-Ordo" class="character dark-side">
+              <div class="character-image character left">
+                <img src="../../assets/assets/charui/tex.charui_canderous.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・マンダロリアン・旧共和国・ならず者
+                  </small>
+                  <h5 class="character-name-ds">カンデラス・オルド</h5>
+                </div>
+                <p class="left">
+                  敵タンクをすばやく倒せる強力なアタッカー
+                </p>
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="キ＝アディ＝ムンディ">
+            <router-link to="/Character/Ki-Adi-Mundi" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_kiadimundi.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・ジェダイ・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">キ＝アディ＝ムンディ</h5>
+                </div>
+                <p>
+                  ライトセーバーのフォーム「アダル」と「マカシ」を切り替えて戦う熟練のジェダイ・マスター
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="キーラ">
+            <router-link to="/Character/Qi'ra" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_qira.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・ならず者・スマグラー
+                  </small>
+                  <h5 class="character-name-ls">キーラ</h5>
+                </div>
+                <p>
+                  準備万端効果、弱体、順応性のあるリーダースキルを使いこなして敵を圧倒する、万能なサポートユニット
+                </p>
+              </div>
+            </router-link>
+          </li>
+          
+          <li class="character" name="キット・フィストー">
+            <router-link to="/Character/Kit-Fisto" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_kitfisto.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・銀河共和国・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">キット・フィストー</h5>
+                </div>
+                <p>
+                  連続攻撃、カウンター率上昇、味方の強化を行う多才なジェダイのアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="キャシアン・アンドー">
+            <router-link to="/Character/Cassian-Andor" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_cassian.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・反乱軍・反乱軍ファイター・ローグ・ワン
+                  </small>
+                  <h5 class="character-name-ls">キャシアン・アンドー</h5>
+                </div>
+                <p>
+                  バトル開始時に味方を強化し、バトル中に敵を弱体化する反乱軍サポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="キャド・ベイン">
+            <router-link to="/Character/Cad-Bane" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_cadbane.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・賞金稼ぎ・ハット・カルテル・ならず者
+                  </small>
+                  <h5 class="character-name-ds">キャド・ベイン</h5>
+                </div>
+                <p>
+                  強力なスタンとジェダイユニットに有効な攻撃を繰り出す賞金稼ぎサポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="キャプテン・ドロガン">
+            <router-link to="/Character/Captain-Drogan" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_captaindrogan.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・反乱軍・反乱軍ファイター
+                  </small>
+                  <h5 class="character-name-ls">キャプテン・ドロガン</h5>
+                </div>
+                <p>
+                  同次攻撃で敵勢力を滅ぼし戦況を変えられる、名高い反乱軍キャプテン
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="キャプテン・ハン・ソロ">
+            <router-link to="/Character/Captain-Han-Solo" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_hoth_han.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・反乱軍・ならず者
+                  </small>
+                  <h5 class="character-name-ls">キャプテン・ハン・ソロ</h5>
+                </div>
+                <p>
+                  向こう見ずな反乱軍サポート。自分を危険にさらして味方を復活させ、敵にめまい効果を与える
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="キャプテン・ファズマ">
+            <router-link to="/Character/Captain-Phasma" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_phasma.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・ファースト・オーダー
+                  </small>
+                  <h5 class="character-name-ds">キャプテン・ファズマ</h5>
+                </div>
+                <p>
+                  味方に数多くの追加攻撃機会を与えられるファースト・オーダーの高ダメージアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="キャプテン・レックス">
+            <router-link to="/Character/Captain-Rex" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_captainrex.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・クローン・トルーパー・フェニックス・反乱軍・反乱軍ファイター
+                  </small>
+                  <h5 class="character-name-ls">キャプテン・レックス</h5>
+                </div>
+                <p>
+                  第501軍団クローン大隊の旧キャプテンであり、無数の戦いをサポートするベテラン兵士
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="クイール">
+            <router-link to="/Character/Kuiil" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_kuiil.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・ならず者
+                  </small>
+                  <h5 class="character-name-ls">クイール</h5>
+                </div>
+                <p>
+                  ドロイドとならず者を助けるサポートメカニック
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="グランドマスター・ヨーダ">
+            <router-link to="/Character/Grand-Master-Yoda" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_yodagrandmaster.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・ジェダイ・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">グランドマスター・ヨーダ</h5>
+                </div>
+                <p>
+                  敵が持つ強化を複製して味方と共有できる、卓越したジェダイのサポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="グランドモフ・ターキン">
+            <router-link to="/Character/Grand-Modd-Tarkin" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_tarkinadmiral.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・帝国軍・艦隊司令官
+                  </small>
+                  <h5 class="character-name-ds">グランドモフ・ターキン</h5>
+                </div>
+                <p>
+                  強化な範囲弱体を行う攻撃的な帝国軍のサポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="グリーヴァス将軍">
+            <router-link to="/Character/General-Grievous" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_grievous.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・ドロイド・分離主義者・艦隊司令官
+                  </small>
+                  <h5 class="character-name-ds">グリーヴァス将軍</h5>
+                </div>
+                <p>
+                  周りに倒れたドロイドの数だけ強さを増していく縦横無尽のアタッカー。ドロイドと呼ばれるのを嫌うが、戦闘ではドロイドとしてカウントされる。
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="グリード">
+            <router-link to="/Character/Greedo" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_greedo.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・賞金稼ぎ・ハット・カルテル・ならず者
+                  </small>
+                  <h5 class="character-name-ds">グリード</h5>
+                </div>
+                <p>
+                  クリティカルヒット時に追加攻撃が可能な危険なアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="グリーフ・カルガ">
+            <router-link to="/Character/Greef-Karga" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_greefkarga.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・賞金稼ぎ・ならず者
+                  </small>
+                  <h5 class="character-name-ls">グリーフ・カルガ</h5>
+                </div>
+                <p>
+                  回復し、アシストを呼ぶ賞金稼ぎサポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="クルルサンタン">
+            <router-link to="/Character/Krrsantan" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_krrsantan.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・リーダー・賞金稼ぎ・ハット・カルテル・ならず者・ウーキー
+                  </small>
+                  <h5 class="character-name-ds">クルルサンタン</h5>
+                </div>
+                <p>
+                  恐ろしさと不屈の強さを持つ悪名高い賞金稼ぎタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="クレニック長官">
+            <router-link to="/Character/Director-Krennic" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_krennic.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・帝国軍
+                  </small>
+                  <h5 class="character-name-ls">クレニック長官</h5>
+                </div>
+                <p>
+                  恐ろしい帝国軍サポート。強力な弱体を発生させ、敵を減速させる
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="クローン・サージェント(フェーズI)">
+            <router-link to="/Character/Clone-Sergeant-Phase-i" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_trooperclonegreen.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・クローン・トルーパー・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">クローン・サージェント(フェーズI)</h5>
+                </div>
+                <p>
+                  範囲攻撃とターンメーター減少能力を持つクローンのアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="クローン大戦チューバッカ">
+            <router-link to="/Character/Clone-Wars-Chewbacca" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_clonewarschewbacca.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    挑発と自己回復が可能な耐久力の高いタンク
+                  </small>
+                  <h5 class="character-name-ls">クローン大戦チューバッカ</h5>
+                </div>
+                <p>
+                  挑発と自己回復が可能な耐久力の高いタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="クワイ=ガン・ジン">
+            <router-link to="/Character/Qui-Gon-Jinn" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_quigon.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・銀河共和国・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">クワイ=ガン・ジン</h5>
+                </div>
+                <p>
+                  追加攻撃重視の多才なアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ケイナン・ジャラス">
+            <router-link to="/Character/Kanan-Jarrus" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_kanan_s3.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・ジェダイ・フェニックス・反乱軍
+                  </small>
+                  <h5 class="character-name-ls">ケイナン・ジャラス</h5>
+                </div>
+                <p>
+                  耐久力のあるフェニックス・タンク。敵の攻撃力を継続して低下させ、味方へのダメージを抑えられる
+                </p>
+              </div>
+            </router-link>
+          </li>
+
           <li class="character" name="ケノービ将軍" id="general-kenobi">
             <router-link to="/Character/GeneralKenobi" class="character light-side">
               <div class="character-image character ">
@@ -1482,15 +1901,240 @@
                 <p>
                   パワフルなジェダイのタンク。フォアサイトを得て、弱体の無効化によって強化を発生させ、強化を得ている味方をアシストに呼ぶことができる。
                 </p>
-                <!-- <p>
-                  パワー：<strong>35101</strong> , HP：<strong>72,828</strong> , スピード：<strong>147</strong>
-                </p> -->
               </div>
             </router-link>
           </li>
 
-          <li class="character" name="ジェダイ・ナイト・カル・ケスティス" id="JediKnightCalKestis">
-            <router-link to="/Character/JediKnightCalKestis" class="character light-side">
+          <li class="character" name="コルサント・アンダーワールド警察隊">
+            <router-link to="/Character/Coruscant-Underworld-Police" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_trooperclonegreen.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">コルサント・アンダーワールド警察隊</h5>
+                </div>
+                <p>
+                  スタンと攻撃力低下で敵を抑え込むサポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="サード・シスター">
+            <router-link to="/Character/Third-Sister" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_thirdsister.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・リーダー・帝国軍・尋問官・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ds">サード・シスター</h5>
+                </div>
+                <p>
+                  自らの目的を果たすまで決して立ち止まらない、無慈悲な尋問官
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="サヴァージ・オプレス">
+            <router-link to="/Character/Savage-Opress" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_savageopress.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・シス
+                  </small>
+                  <h5 class="character-name-ds">サヴァージ・オプレス</h5>
+                </div>
+                <p>
+                  HPの低下したユニットに追い打ちをかけ、攻撃を受けると強くなる耐久力の高いアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="サナ・スタロス">
+            <router-link to="/Character/Sana-Starros" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_trooperclonegreen.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・ならず者・スマグラー
+                  </small>
+                  <h5 class="character-name-ls">サナ・スタロス</h5>
+                </div>
+                <p>
+                  チームが範囲ダメージを与えるのに役立つ、反乱軍シンバになったならず者。
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="サビーヌ・レン">
+            <router-link to="/Character/Sabine-Wren" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_sabine_s3-2.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・マンダロリアン・フェニックス・反乱軍
+                  </small>
+                  <h5 class="character-name-ls">サビーヌ・レン</h5>
+                </div>
+                <p>
+                  積極的なフェニックス・アタッカー。防御力を継続して低下させ、動きの遅い敵を苦しめる
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ザム・ウェセル">
+            <router-link to="/Character/Zam-Wesell" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_zamwesell.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・賞金稼ぎ・ならず者
+                  </small>
+                  <h5 class="character-name-ls">ザム・ウェセル</h5>
+                </div>
+                <p>
+                  回避力低下を発生させ、爆薬を駆使する、ならず者の高速アタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ザルバー">
+            <router-link to="/Character/Zaallbar" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_zaallbar.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・旧共和国・ならず者・ウーキー
+                  </small>
+                  <h5 class="character-name-ls">ザルバー</h5>
+                </div>
+                <p>
+                  強化な範囲攻撃と変化に応じて挑発を行う万能のならず者タンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="サン・ファク">
+            <router-link to="/Character/Sun-Fac" class="character dark-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_geonosian_sunfac.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・ジオノージアン・分離主義者
+                  </small>
+                  <h5 class="character-name-ds">サン・ファク</h5>
+                </div>
+                <p>
+                  様々な状態異常効果で敵を苦しめるジオノージアンのタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="シア・ジュンダ">
+            <router-link to="/Character/Cere-Junda" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_cerejunda.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・ならず者・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ls">シア・ジュンダ</h5>
+                </div>
+                <p>
+                  様々な強化効果で味方を支援し、素早い敵を罰する強靭なサポーター
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ジェダイ・コンシュラー">
+            <router-link to="/Character/Jedi-Consular" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_jedi_consular_03.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・ヒーラー・銀河共和国・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">ジェダイ・コンシュラー</h5>
+                </div>
+                <p>
+                  攻守のバランスに優れたジェダイのヒーラー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ジェダイ・ナイト・アナキン">
+            <router-link to="/Character/Jedi-Knight-Anakin" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_anakinknight.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・銀河共和国・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">ジェダイ・ナイト・アナキン</h5>
+                </div>
+                <p>
+                  味方を傷つけた敵に報復を行う、威圧的なジェダイのアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="クローン・サージェント(フェーズI)">
+            <router-link to="/Character/Clone-Sergeant-Phase-i" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_trooperclonegreen.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・クローン・トルーパー・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">クローン・サージェント(フェーズI)</h5>
+                </div>
+                <p>
+                  範囲攻撃とターンメーター減少能力を持つクローンのアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ジェダイ・ナイト・カル・ケスティス">
+            <router-link to="/Character/Jedi-Knight-Cal-Kestis" class="character light-side">
               <div class="character-image character">
                 <img src="../../assets/assets/charui/tex.charui_jediknightcal.png">
               </div>
@@ -1504,16 +2148,32 @@
                 <p class="left">
                   ジェダイ・ナイト・カル・ケスティスは様々なライトセーバーの技を駆使し、攻守のスタンスを自在に変えながら敵を倒す。
                 </p>
-                <!-- <p>
-                  パワー:<strong>37,773</strong> , HP:<strong>71,063</strong> , スピード:<strong>149</strong>
-                </p> -->
               </div>
 
             </router-link>
           </li>
 
+          <li class="character" name="ジェダイ・ナイト・ガーディアン">
+            <router-link to="/Character/Jedi-Knight-Guardian" class="character light-side">
+              <div class="character-image character ">
+                <img src="../../assets/assets/charui/tex.charui_jedi_guardian_01.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・銀河共和国・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">ジェダイ・ナイト・ガーディアン</h5>
+                </div>
+                <p>
+                  敵の弱体化に優れ、HP低下時の自然回復能力を持つ、粘り強いジェダイタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
           <li class="character" name="ジェダイ・ナイト・ルーク・スカイウォーカー">
-            <router-link to="/Character/JediKnightLukeSkywalker" class="character light-side">
+            <router-link to="/Character/Jedi-Knight-Luke-Skywalker" class="character light-side">
               <div class="character-image character">
                 <img src="../../assets/assets/charui/tex.charui_luke_jediknight.png">
               </div>
@@ -1527,16 +2187,33 @@
                 <p class="left">
                   フォースの意志によって味方ジェダイと共にさらなる勝利の高みに登っていく、たくましい伝説のジェダイの英雄
                 </p>
-                <!-- <p>
-                  パワー:<strong>35,212</strong> , HP:<strong>79,948</strong> , スピード:<strong>112</strong>
-                </p> -->
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="ジェダイ・ナイトレヴァン">
+            <router-link to="/Character/Jedi-Kinght-Revan" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_luke_jedirevan.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・ジェダイ・旧共和国
+                  </small>
+                  <h5 class="character-name-ls">ジェダイ・ナイトレヴァン</h5>
+                </div>
+                <p class="left">
+                  伝説的ジェダイリーダー。幅広い強力なスキルで戦局を支配する
+                </p>
               </div>
 
             </router-link>
           </li>
 
           <li class="character" name="ジェダイ・マスター・ケノービ">
-            <router-link to="/Character/JediMasterKenobi" class="character light-side">
+            <router-link to="/Character/Jedi-Master-Kenobi" class="character light-side">
               <div class="character-image character">
                 <img src="../../assets/assets/charui/tex.charui_globiwan.png">
               </div>
@@ -1552,16 +2229,185 @@
                 <p class="left">
                   言わずと知れたジェダイ・マスター。様々なスキルでダメージを与え、サポートを行う。
                 </p>
-                <!-- <p>
-                  パワー:<strong>54,543</strong> , HP:<strong>88,336</strong> , スピード<strong>385</strong>
-                </p> -->
               </div>
 
             </router-link>
           </li>
 
+          <li class="character" name="ジェダイ・マスター・ルーク・スカイウォーカー">
+            <router-link to="/Character/Jedi-Master-Luke-Skywalker" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_luke_jml.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    <span class="GL">銀河の伝説</span>・ライトサイド・タンク・リーダー・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">ジェダイ・マスター・ルーク・スカイウォーカー</h5>
+                </div>
+                <p class="left">
+                  その知恵とこれまでに取得した技で味方ジェダイを強化する、年老いた伝説のジェダイ・マスター
+                </p>
+              </div>
+
+            </router-link>
+          </li>
+
+          <li class="character" name="ジオノージアン・スパイ">
+            <router-link to=" /Character/Geonosian-Spy" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_geonosian_spy.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ジオノージアン・分離主義者
+                  </small>
+                  <h5 class="character-name-ds">ジオノージアン・スパイ</h5>
+                </div>
+                <p class="left">
+                  敵をエクスポーズ状態にして高いダメージを叩き出すポテンシャルを秘めたステルスアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>   
+          
+          <li class="character" name="ジオノージアン・ブルード・アルファ">
+            <router-link to=" /Character/Geonosian-Brood-Alpha" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_geonosian_broodalpha.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・ジオノージアン・分離主義者
+                  </small>
+                  <h5 class="character-name-ds">ジオノージアン・ブルード・アルファ</h5>
+                </div>
+                <p class="left">
+                  味方を招集し、集団意識の効果で敵に一斉に襲い掛からせるジオノージアンサポート
+                </p>
+              </div>
+            </router-link>
+          </li> 
+
+          <li class="character" name="ジオノージアン兵士">
+            <router-link to=" /Character/Geonosian-Soldier" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_geonosian_soldier.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ジオノージアン・分離主義者
+                  </small>
+                  <h5 class="character-name-ds">ジオノージアン兵士</h5>
+                </div>
+                <p class="left">
+                  アシストを呼び、強力な攻撃ボーナスを味方ジオノージアンに付与する攻撃的なアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li> 
+
+          <li class="character" name="シス・アサシン">
+            <router-link to=" /Character/Sith-Assassin" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_sithassassin.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・シス・シス帝国
+                  </small>
+                  <h5 class="character-name-ds">シス・アサシン</h5>
+                </div>
+                <p class="left">
+                  回避能力に長けたシスのアタッカー。ステルスで威力が増す
+                </p>
+              </div>
+            </router-link>
+          </li> 
+
+          <li class="character" name="シス・エターナルの皇帝">
+            <router-link to=" /Character/Sith-Eternal-Emperor" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_espalpatine_pre.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    <sapn class="GL">銀河の伝説</sapn>・ダークサイド・アタッカー・リーダー・シス
+                  </small>
+                  <h5 class="character-name-ls">シス・エターナルの皇帝</h5>
+                </div>
+                <p class="left">
+                  ダークサイドの圧倒的な力で敵を排除する狡猾なシスの皇帝
+                </p>
+              </div>
+            </router-link>
+          </li> 
+
+          <li class="character" name="シス・トルーパー">
+            <router-link to=" /Character/Sith-Trooper" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_firstorder_sithtrooper.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ファースト・オーダー・シス
+                  </small>
+                  <h5 class="character-name-ds">シス・トルーパー</h5>
+                </div>
+                <p class="left">
+                  ファースト・オーダーやシスと強力なシナジー効果を発揮し、高ダメージを与えられる精鋭トルーパー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="シス・マローダー">
+            <router-link to=" /Character/Sith-Marauder" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_sithmarauder.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・シス・シス帝国
+                  </small>
+                  <h5 class="character-name-ds">シス・マローダー</h5>
+                </div>
+                <p class="left">
+                  恐ろしいシス・アタッカー。バトルに発生している強化および弱体を利用して戦う
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="シス帝国トルーパー">
+            <router-link to=" /Character/Sith-Empire-Trooper" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_sithassassin.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・シス・シス帝国
+                  </small>
+                  <h5 class="character-name-ds">シス帝国トルーパー</h5>
+                </div>
+                <p class="left">
+                  挑発を行い、敵プロテクションを無効化できるシスのタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
           <li class="character" name="スカイウォーカー将軍">
-            <router-link to=" /Character/GeneralSkywalker" class="character light-side">
+            <router-link to=" /Character/General-Skywalker" class="character light-side">
               <div class="character-image character">
                 <img src="../../assets/assets/charui/tex.charui_generalanakin.png">
               </div>
@@ -1575,15 +2421,12 @@
                 <p class="left">
                   仲間を死守する凶暴なジェダイ。
                 </p>
-                <!-- <p>
-                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
-                </p> -->
               </div>
             </router-link>
           </li>
 
           <li class="character" name="バリス・オフィー">
-            <router-link to=" /Character/BarrissOffee" class="character light-side">
+            <router-link to=" /Character/Barriss-Offee" class="character light-side">
               <div class="character-image character">
                 <img src="../../assets/assets/charui/tex.charui_barriss_light.png">
               </div>
@@ -1597,15 +2440,12 @@
                 <p class="left">
                   チームのHPバランスを調整し、味方の状態異常を取り除けるジェダイのヒーラー
                 </p>
-                <!-- <p>
-                  パワー:<strong>35101</strong> , HP:<strong>72,828</strong> , スピード:<strong>147</strong>
-                </p> -->
               </div>
             </router-link>
           </li>
 
           <li class="character" name="フェネック・シャンド">
-            <router-link to="/Character/FennecShand" class="character light-side">
+            <router-link to="/Character/Fennec-Shand" class="character light-side">
               <div class="character-image character left" >
                 <img src="../../assets/assets/charui/tex.charui_fennec.png">
               </div>
@@ -1620,9 +2460,6 @@
                 <p class="left">
                   最も危険な敵を相手にできる強力な賞金稼ぎ
                 </p>
-                <!-- <p>
-                  パワー:<strong>33,016</strong> , HP:<strong>64,799</strong> , スピード:<strong>149</strong>
-                </p> -->
               </div>
 
             </router-link>

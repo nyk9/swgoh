@@ -1887,7 +1887,7 @@
           </li>
 
           <li class="character" name="ケノービ将軍" id="general-kenobi">
-            <router-link to="/Character/GeneralKenobi" class="character light-side">
+            <router-link to="/Character/General-Kenobi" class="character light-side">
               <div class="character-image character ">
                 <img src="../../assets/assets/charui/tex.charui_obiwangeneral.png">
               </div>
@@ -3507,6 +3507,141 @@
               </div>
             </router-link>
           </li>
+
+          <li class="character" name="ナイトシスター・アコライト">
+            <router-link to="/Character/NightSister-Acolyte" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_nightsister_acolyte.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ナイトシスター
+                  </small>
+                  <h5 class="character-name-ds">ナイトシスター・アコライト</h5>
+                </div>
+                <p class="left">
+                  敵に弱体を発生させるスキル、自己回復スキルを持ったステルスアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ナイトシスター・イニシエート">
+            <router-link to="/Character/NightSister-Initiate" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_nightsister_initiate.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ナイトシスター
+                  </small>
+                  <h5 class="character-name-ds">ナイトシスター・イニシエート</h5>
+                </div>
+                <p class="left">
+                  クリティカル重視型アタッカー。敵に強化無効を発生させる
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ナイトシスター・スピリット">
+            <router-link to="/Character/NightSister-Wraith" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_nightsister_wraith.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ナイトシスター
+                  </small>
+                  <h5 class="character-name-ds">ナイトシスター・スピリット</h5>
+                </div>
+                <p class="left">
+                  謎めいたナイトシスターアタッカー。効果の解除、スタン、フォアサイトを駆使する
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ナイトシスター・ゾンビ">
+            <router-link to="/Character/NightSister-Zombie" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_nightsister_zombie.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・ナイトシスター
+                  </small>
+                  <h5 class="character-name-ds">ナイトシスター・ゾンビ</h5>
+                </div>
+                <p class="left">
+                  卑劣なナイトシスタータンク。抵抗力を低下させ、際限なく復活を繰り返す
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ナインス・シスター">
+            <router-link to="/Character/Ninth-Sister" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_ninthsister.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・リーダー・帝国軍・尋問官・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ds">ナインス・シスター</h5>
+                </div>
+                <p class="left">
+                  ジェダイを狩り出すためなら手段を選ばない、冷酷非道な尋問官
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ヌート・ガンレイ">
+            <router-link to="/Character/Nute-Gunray" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_nutegunray.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・ならず者・分離主義者
+                  </small>
+                  <h5 class="character-name-ds">ヌート・ガンレイ</h5>
+                </div>
+                <p class="left">
+                  敵の策略の妨害に優れる分離主義者サポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ネビット長老">
+            <router-link to="/Character/Chief-Nebit" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_jawa_nebit.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・リーダー・ジャワ
+                  </small>
+                  <h5 class="character-name-ls">ネビット長老</h5>
+                </div>
+                <p class="left">
+                  ステルスシナジーを備え、クールダウンを減少できる狡猾なジャワのタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          
 
           <li class="character" name="バリス・オフィー">
             <router-link to=" /Character/Barriss-Offee" class="character light-side">

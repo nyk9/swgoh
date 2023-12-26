@@ -3641,7 +3641,138 @@
             </router-link>
           </li>
 
-          
+          <li class="character" name="パオ">
+            <router-link to="/Character/Pao" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_pao.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・反乱軍・反乱軍ファイター・ローグ・ワン
+                  </small>
+                  <h5 class="character-name-ls">パオ</h5>
+                </div>
+                <p class="left">
+                  力強い掛け声と共に戦う、容赦のない反乱軍アタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="パズ・ウィズラ">
+            <router-link to="/Character/Paz-Vizsla" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_pazvizsla.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・マンダロリアン
+                  </small>
+                  <h5 class="character-name-ls">パズ・ウィズラ</h5>
+                </div>
+                <p class="left">
+                  敵に弱体を発生させるスキル、自己回復スキルを持ったステルスアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="バスティラ・シャン">
+            <router-link to="/Character/Bastila-Shan" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_bastilashan.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    バスティラ・シャン
+                  </small>
+                  <h5 class="character-name-ds">バスティラ・シャン</h5>
+                </div>
+                <p class="left">
+                  強力なジェダイサポート。リーダースキルによって、味方の初回ターンに様々な効果を発生させる
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="バスティラ・シャン(フォールン)">
+            <router-link to="/Character/bastila-Shan-Fallen" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_bastilashan_dark.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・シス・シス帝国
+                  </small>
+                  <h5 class="character-name-ds">バスティラ・シャン(フォールン)</h5>
+                </div>
+                <p class="left">
+                  ショック、恐怖、邪悪な戦闘瞑想効果を含む、様々な弱体効果を発生させる強力なシスサポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ハックス将軍">
+            <router-link to="/Character/General-Hux" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_generalhux.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・ファースト・オーダー・艦隊司令官
+                  </small>
+                  <h5 class="character-name-ds">ハックス将軍</h5>
+                </div>
+                <p class="left">
+                  敵のカウンター攻撃を阻止する冷酷なファースト・オーダーサポート。
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="パドメ・アミダラ">
+            <router-link to="/Character/Padme-Amidala" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_padme_geonosis.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・銀河共和国
+                  </small>
+                  <h5 class="character-name-ls">パドメ・アミダラ</h5>
+                </div>
+                <p class="left">
+                  継続的に味方をサポートし、どのような環境にも適応できる勇敢なリーダー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="パプルー">
+            <router-link to="/Character/Paploo" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_paploo.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・イウォーク
+                  </small>
+                  <h5 class="character-name-ls>パプルー</h5>
+                </div>
+                <p class="left">
+                  機転に優れたイウォークのタンク。アシストと強化シナジーを駆使する
+                </p>
+              </div>
+            </router-link>
+          </li>
 
           <li class="character" name="バリス・オフィー">
             <router-link to=" /Character/Barriss-Offee" class="character light-side">
@@ -3662,8 +3793,274 @@
             </router-link>
           </li>
 
+          <li class="character" name="パルパティーン皇帝">
+            <router-link to="/Character/Emperor-Palpatine" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_palpatineemperor.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・帝国軍・シス
+                  </small>
+                  <h5 class="character-name-ds>パルパティーン皇帝</h5>
+                </div>
+                <p class="left">
+                  ショック効果を与えターゲットを複数ターンの間スタン状態にできる、圧倒的な力を持ったシスのサポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ハン(ストームトルーパー)">
+            <router-link to="/Character/Stormtooper-Han" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_trooperstorm_han.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・リーダー・反乱軍・ならず者
+                  </small>
+                  <h5 class="character-name-ls>ハン(ストームトルーパー)</h5>
+                </div>
+                <p class="left">
+                  急激なターンメーターの変化や攻撃力ブーストによって敵に奇襲を仕掛けられる多才なタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ハンター">
+            <router-link to="/Character/Hunter" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_bb_hunter.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・バッド・バッチ・クローン・トルーパー
+                  </small>
+                  <h5 class="character-name-ls>ハンター</h5>
+                </div>
+                <p class="left">
+                  巧みに敵を倒すバッド・バッチのタクティカルリーダー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ピエット提督">
+            <router-link to="/Character/Admiral-Piett" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_piett.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・帝国軍・帝国軍トルーパー・艦隊司令官
+                  </small>
+                  <h5 class="character-name-ds>ピエット提督</h5>
+                </div>
+                <p class="left">
+                  味方をサポートしつつも、破滅を企てる野心的なインペリアル・オフィサー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ビスタン">
+            <router-link to="/Character/Bistan" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_bistan.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・反乱軍・反乱軍ファイター・ローグ・ワン
+                  </small>
+                  <h5 class="character-name-ls>ビスタン</h5>
+                </div>
+                <p class="left">
+                  荒々しい反乱軍アタッカー。フレンジー効果を発生させ、敵の弱体を行い、ターンメーターを現象させる
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ビッグス・ダークライダー">
+            <router-link to="/Character/Biggs-Darklighter" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_rebelpilot_biggs.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・反乱軍・反乱軍ファイター
+                  </small>
+                  <h5 class="character-name-ls>ビッグス・ダークライダー</h5>
+                </div>
+                <p class="left">
+                  クリティカルヒットシナジーを備え、アシストを呼ぶ反乱軍のサポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ファースト・オーダー・エクセキューショナー">
+            <router-link to="/Character/First-Order-Excutioner" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_firstorder_excutioner.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ファースト・オーダー
+                  </small>
+                  <h5 class="character-name-ds>ファースト・オーダー・エクセキューショナー</h5>
+                </div>
+                <p class="left">
+                  冷酷なるファースト・オーダーアタッカー。強力な攻撃を繰り出す
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ファースト・オーダー・オフィサー">
+            <router-link to="/Character/First-Order-Officer" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_firstorderofficer.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・ファースト・オーダー
+                  </small>
+                  <h5 class="character-name-ds>ファースト・オーダー・オフィサー</h5>
+                </div>
+                <p class="left">
+                  アドバンテージを発生させ、敵味方双方のターンメーターを操れるファースト・オーダーのサポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ファースト・オーダー・ストームトルーパー">
+            <router-link to="/Character/First-Order-Stormtrooper" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_firstordertrooper.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・ファースト・オーダー
+                  </small>
+                  <h5 class="character-name-ds>ファースト・オーダー・ストームトルーパー</h5>
+                </div>
+                <p class="left">
+                  アドバンテージによって敵をかき乱すファースト・オーダーのタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ファースト・オーダーTIEパイロット">
+            <router-link to="/Character/First-Order-TIE-Pilot" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_firstordertiepilot.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ファースト・オーダー
+                  </small>
+                  <h5 class="character-name-ds>ファースト・オーダーTIEパイロット</h5>
+                </div>
+                <p class="left">
+                  アドバンテージによって1ターンで非常に大きなダメージを与えられる、ファースト・オーダーのアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ファースト・オーダー特殊部隊TIEパイロット">
+            <router-link to="/Character/First-Order-SF-TIE-Pilot" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_firstorder_pilot.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・ファースト・オーダー
+                  </small>
+                  <h5 class="character-name-ds>ファースト・オーダー特殊部隊TIEパイロット</h5>
+                </div>
+                <p class="left">
+                  強力なファースト・オーダーアタッカー。味方を強化し、敵をかき乱す
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="フィフス・ブラザー">
+            <router-link to="/Character/Fifth-Brother" class="character dark-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_fifthbroder.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・帝国軍・尋問官・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ds>フィフス・ブラザー</h5>
+                </div>
+                <p class="left">
+                  壊滅的な弱体化効果を与えて全ジェダイの粛清をサポートする、強力な尋問官
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="フィン">
+            <router-link to="/Character/Finn" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_finnjakku.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・リーダー・レジスタンス
+                  </small>
+                  <h5 class="character-name-ls">フィン</h5>
+                </div>
+                <p class="left">
+                  優れた攻守バランスで敵に圧力をかけ続けるレジスタンスのタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ブーシ(レイア・オーガナ)">
+            <router-link to="/Character/Boushh-Leia-Organa" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_boushh.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・賞金稼ぎ・ハット・カルテル・ならず者
+                  </small>
+                  <h5 class="character-name-ls">ブーシ(レイア・オーガナ)</h5>
+                </div>
+                <p class="left">
+                  強力なサーマル・デトネーターのシナジー項かを持つ、変装でジャバの宮殿を欺くプリンセス
+                </p>
+              </div>
+            </router-link>
+          </li>
+
           <li class="character" name="フェネック・シャンド">
-            <router-link to="/Character/Fennec-Shand" class="character light-side">
+            <router-link to="/Character/Fennec-Shand" class="character dark-side">
               <div class="character-image character left" >
                 <img src="../../assets/assets/charui/tex.charui_fennec.png">
               </div>
@@ -3679,7 +4076,63 @@
                   最も危険な敵を相手にできる強力な賞金稼ぎ
                 </p>
               </div>
+            </router-link>
+          </li>
 
+          <li class="character" name="プリンセス・ニーサ">
+            <router-link to="/Character/Princess-Kneesaa" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_princesskneesaa.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・イウォーク
+                  </small>
+                  <h5 class="character-name-ls">プリンセス・ニーサ</h5>
+                </div>
+                <p class="left">
+                  ブライト・ツリー・ビレッジのために戦う、小さくても強力なイウォークのアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="プロ・クーン">
+            <router-link to="/Character/Plo-Koon" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_plokoon.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・リーダー・銀河共和国・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">プロ・クーン</h5>
+                </div>
+                <p class="left">
+                  クローンとのシナジー、敵の強化解除、対ステルス能力を持つジェダイのタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ベイズ・マルバス">
+            <router-link to="/Character/Baze-Malbus" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_bazemalbus.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・反乱軍・反乱軍ファイター・ローグ・ワン
+                  </small>
+                  <h5 class="character-name-ls">ベイズ・マルバス</h5>
+                </div>
+                <p class="left">
+                  勇猛な反乱軍のタンク。挑発、強化の無効化、弱体を行う
+                </p>
+              </div>
             </router-link>
           </li>
 
@@ -3702,8 +4155,27 @@
             </router-link>
           </li>
 
+          <li class="character" name="ヘラ・シンドゥーラ">
+            <router-link to="/Character/hera-Syndulla" class="character light-side">
+              <div class="character-image character left" >
+                <img src="../../assets/assets/charui/tex.charui_hera_s3.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・フェニックス・反乱軍
+                  </small>
+                  <h5 class="character-name-ls">ヘラ・シンドゥーラ</h5>
+                </div>
+                <p class="left">
+                  狡猾なフェニックスのサポート。味方フェニックスに互いのユニークスキルを共有させられる
+                </p>
+              </div>
+            </router-link>
+          </li>
+
           <li class="character" name="ボ＝カターン(マンダロア)">
-            <router-link to=" /Character/General-Skywalker" class="character light-side">
+            <router-link to=" /Character/Bo-Katan-Mandalor" class="character light-side">
               <div class="character-image character">
                 <img src="../../assets/assets/charui/tex.charui_mandalorbokatan.png">
               </div>
@@ -3716,6 +4188,196 @@
                 </div>
                 <p class="left">
                   ダークセーバーを操り、仲間を率いて戦うマンダロリアンの勇敢なリーダー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ボ＝カターン・クライズ">
+            <router-link to=" /Character/Bo-Katan-Kryze" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_bokatan.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・マンダロリアン・ならず者
+                  </small>
+                  <h5 class="character-name-ls">ボ=カターン・クライズ</h5>
+                </div>
+                <p class="left">
+                  味方マンダロリアンを統率してアシストに呼ぶ、マンダロリアンの指導者
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ポー・ダメロン">
+            <router-link to=" /Character/Poe-Dameron" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_poe.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・リーダー・レジスタンス
+                  </small>
+                  <h5 class="character-name-ls">ポー・ダメロン</h5>
+                </div>
+                <p class="left">
+                  敵をエクスポーズ状態にする挑発で大逆転が狙えるレジスタンスのタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ボーディー・ルック">
+            <router-link to=" /Character/Bodhi-Rook" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_bodhi.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポーター・反乱軍・反乱軍ファイター・ローグ・ワン
+                  </small>
+                  <h5 class="character-name-ls">ボーディー・ルック</h5>
+                </div>
+                <p class="left">
+                  味方のために敵のターンメーターを低下させて妨害を行う、抜け目のない反乱軍サポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ポグル">
+            <router-link to=" /Character/Poggle-the-Lesser" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_geonosian_poggle.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・ジオノージアン・分離主義者
+                  </small>
+                  <h5 class="character-name-ds">ポグル</h5>
+                </div>
+                <p class="left">
+                  強力な攻撃シナジー効果を持つジオノージアンと分離主義者のサポート
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ボスク">
+            <router-link to=" /Character/Bossk" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_bossk.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・タンク・リーダー・賞金稼ぎ・ならず者
+                  </small>
+                  <h5 class="character-name-ds">ボスク</h5>
+                </div>
+                <p class="left">
+                  継続的にHPとプロテクションを回復する賞金稼ぎのタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ホス反乱軍スカウト">
+            <router-link to=" /Character/Hoth-Rebel-Scout" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_rebelhothscout.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・反乱軍・反乱軍ファイター
+                  </small>
+                  <h5 class="character-name-ls">ホス反乱軍スカウト</h5>
+                </div>
+                <p class="left">
+                  クリティカルシナジーとスピード上昇スキルを持つ、単体ターゲットアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ホス反乱軍兵士">
+            <router-link to=" /Character/Hoth-Rebel-Scout" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_rebelhoth.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポーター・反乱軍・反乱軍ファイター
+                  </small>
+                  <h5 class="character-name-ls">ホス反乱軍兵士</h5>
+                </div>
+                <p class="left">
+                  弱体、挑発、防御強化の能力、反乱軍および対帝国軍勢力とのシナジーを持つサポートユニット
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ボバ・フェット">
+            <router-link to=" /Character/Boba-Fett" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_bobafett.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・賞金稼ぎ・ハット・カルテル・ならず者
+                  </small>
+                  <h5 class="character-name-ds">ボバ・フェット</h5>
+                </div>
+                <p class="left">
+                  情け容赦ない賞金稼ぎのアタッカー。挑発の無効化、スキルブロック、自己復活を駆使する
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name='ボバ・フェット(ジャンゴの "息子" )'>
+            <router-link to=" /Character/Boba-Fett-Scion-of-Jango" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_bobafettold.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・賞金稼ぎ・ならず者
+                  </small>
+                  <h5 class="character-name-ds">ボバ・フェット(ジャンゴの "息子" )</h5>
+                </div>
+                <p class="left">
+                  さまざまな弱体化効果と、賞金稼ぎとならず者の両方とシナジー効果を発揮する悪名高い賞金稼ぎアタッカー。
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ホンドー・オナカ">
+            <router-link to=" /Character/Hondo-Ohnaka" class="character ">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_hondoohnaka.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ニュートラル・サポート・ならず者・スマグラー
+                  </small>
+                  <h5 class="character-name-n">ホンドー・オナカ</h5>
+                </div>
+                <p class="left">
+                  自身の利益のためなら手段を選ばない比類なきならず者
                 </p>
               </div>
             </router-link>

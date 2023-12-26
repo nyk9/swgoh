@@ -4239,7 +4239,7 @@
               <div class="character-detail character">
                 <div class="media-heding">
                   <small class="right">
-                    ライトサイド・サポーター・反乱軍・反乱軍ファイター・ローグ・ワン
+                    ライトサイド・サポート・反乱軍・反乱軍ファイター・ローグ・ワン
                   </small>
                   <h5 class="character-name-ls">ボーディー・ルック</h5>
                 </div>
@@ -4383,6 +4383,215 @@
             </router-link>
           </li>
 
+          <li class="character" name="マグマトルーパー">
+            <router-link to=" /Character/Magmatrooper" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_trooperstorm_magma.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・帝国軍・帝国軍トルーパー
+                  </small>
+                  <h5 class="character-name-ds">マグマトルーパー</h5>
+                </div>
+                <p class="left">
+                  弱体から素早く立ち直り、強力な範囲攻撃を行う回避力の高いアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="マザー・タルジン">
+            <router-link to=" /Character/Mother-Talzin" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_nightsister_talzin.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・ナイトシスター
+                  </small>
+                  <h5 class="character-name-ds">マザー・タルジン</h5>
+                </div>
+                <p class="left">
+                  邪悪なナイトシスターのリーダー。敵に感染効果を発生させて、弱体の解除を封じる
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="マラ・ジェイド(皇帝の手)">
+            <router-link to=" /Character/Mara-Jade-The-Emperors-Hand" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_marajade.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・帝国軍・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ds">マラ・ジェイド(皇帝の手)</h5>
+                </div>
+                <p class="left">
+                  ダークサイドのフォースの使い手。このアタッカーは味方を使って自身を強化し、パルパティーン皇帝をサポートする
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="マンダロリアン">
+            <router-link to=" /Character/The-Mandalorian" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_mandalorian.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・賞金稼ぎ・マンダロリアン・ならず者
+                  </small>
+                  <h5 class="character-name-ls">マンダロリアン</h5>
+                </div>
+                <p class="left">
+                  クリティカルヒットを頼りに敵を圧倒する、強力なマンダロリアンの賞金稼ぎ
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="マンダロリアン(ベスカー・アーマー)">
+            <router-link to=" /Character/The-Mandalorian-Beskar-Armor" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_mandobeskar.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・リーダー・マンダロリアン・ならず者
+                  </small>
+                  <h5 class="character-name-ls">マンダロリアン(ベスカー・アーマー)</h5>
+                </div>
+                <p class="left">
+                  敵を仕留めて味方を守る怖いもの知らずのならず者リーダー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ミッション・ヴァオ">
+            <router-link to=" /Character/Mission-Vao" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_mission.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・旧共和国・ならず者
+                  </small>
+                  <h5 class="character-name-ls">ミッション・ヴァオ</h5>
+                </div>
+                <p class="left">
+                  敵を暗闇状態にする狡猾なならず者アタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="メイス・ウィンドゥ">
+            <router-link to=" /Character/Mace-Windu" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_macewindu.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・タンク・リーダー・銀河共和国・ジェダイ・艦隊司令官
+                  </small>
+                  <h5 class="character-name-ls">メイズ・ウィンドゥ</h5>
+                </div>
+                <p class="left">
+                  対策を講じなければ甚大なダメージをもたらしていく攻撃的ジェダイタンク
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="メリン">
+            <router-link to=" /Character/Merrin" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_merrin.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・ナイトシスター
+                  </small>
+                  <h5 class="character-name-ds">メリン</h5>
+                </div>
+                <p class="left">
+                  積極的に味方を守り、敵に感染を発生させるナイトシスターの魔女
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="モール">
+            <router-link to=" /Character/Maul" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_maul_cyborg.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・アタッカー・リーダー・マンダロリアン・非同盟のフォースの使い手
+                  </small>
+                  <h5 class="character-name-ds">モール</h5>
+                </div>
+                <p class="left">
+                  苦悩を以て敵を倒す容赦なきアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="モブ・エンフォーサー">
+            <router-link to=" /Character/Mob-Enforcer" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_mob_enforcer.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・ハット・カルテル・ならず者
+                  </small>
+                  <h5 class="character-name-ds">モブ・エンフォーサー</h5>
+                </div>
+                <p class="left">
+                  敵を弱体化させるスキルとサーマル・デトネーターを操るならず者サポーター
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="モフ・ギデオン">
+            <router-link to=" /Character/Moff-Gideon" class="character dark-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_moffgideon.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ダークサイド・サポート・リーダー・帝国軍・インペリアル・レムナント・帝国軍トルーパー
+                  </small>
+                  <h5 class="character-name-ds">モフ・ギデオン</h5>
+                </div>
+                <p class="left">
+                  帝国軍のリーダーで、攻撃部隊を率いてバトルに参入し、リーダータグ付きの敵を執拗に狙う
+                </p>
+              </div>
+            </router-link>
+          </li>
+
           <li class="character" name="モフ・ギデオン(ダーク・トルーパー)">
             <router-link to=" /Character/Dark-Trooper-Moff-Gideon" class="character dark-side">
               <div class="character-image character">
@@ -4397,6 +4606,82 @@
                 </div>
                 <p class="left">
                   最弱の味方を犠牲にして生き延び洞察により戦況を支配するインペリアル・レムナントのリーダー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="モン・モスマ">
+            <router-link to=" /Character/Mon-mothma" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_monmothma.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・リーダー・反乱軍
+                  </small>
+                  <h5 class="character-name-ls">モン・モスマ</h5>
+                </div>
+                <p class="left">
+                  味方をサポート/集結させる反乱軍リーダー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ヤング・ハン・ソロ">
+            <router-link to=" /Character/Young-han-Solo" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_han_young.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・ならず者・スマグラー
+                  </small>
+                  <h5 class="character-name-ls">ヤング・ハン・ソロ</h5>
+                </div>
+                <p class="left">
+                  段階的に強さを増していく、ならず者のアタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ヤング・ランド・カルリジアン">
+            <router-link to=" /Character/Young-Lando-Calrissian" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_younglando.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・アタッカー・ならず者・スマグラー
+                  </small>
+                  <h5 class="character-name-ls">ヤング・ランド・カルリジアン</h5>
+                </div>
+                <p class="left">
+                  弱体発生中の敵を利用して追加ダメージを与えるならず者アタッカー
+                </p>
+              </div>
+            </router-link>
+          </li>
+
+          <li class="character" name="ヨーダ(ハーミット)">
+            <router-link to=" /Character/Hermit-Yoda" class="character light-side">
+              <div class="character-image character">
+                <img src="../../assets/assets/charui/tex.charui_yodahermit.png">
+              </div>
+              <div class="character-detail character">
+                <div class="media-heding">
+                  <small class="right">
+                    ライトサイド・サポート・ジェダイ
+                  </small>
+                  <h5 class="character-name-ls">ヨーダ(ハーミット)</h5>
+                </div>
+                <p class="left">
+                  フォースについての賢者の知恵を授けるジェダイの隠遁者
                 </p>
               </div>
             </router-link>

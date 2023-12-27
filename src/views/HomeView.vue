@@ -4405,7 +4405,7 @@
           <li class="character" name="マザー・タルジン">
             <router-link to=" /Character/Mother-Talzin" class="character dark-side">
               <div class="character-image character">
-                <img src="../../assets/assets/charui/tex.charui_nightsister_talzin.png">
+                <img src="../../assets/assets/charui/tex.charui_nightsisters_talzin.png">
               </div>
               <div class="character-detail character">
                 <div class="media-heding">

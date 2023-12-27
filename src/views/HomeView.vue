@@ -5159,6 +5159,9 @@ img{
   min-width: 100px;
   min-height: 100px;
 }
+router-link{
+  min-height: 120px;
+}
 #sub {
   display: none;
 }
